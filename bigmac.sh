@@ -11,7 +11,7 @@ read -rsp $"Press any key to continue." -n 1
 echo ""
 echo ""
 
-#Make the Big Mac value directory
+#Make the Big Mac value directory.
 
 mkdir -p data
 

@@ -26,7 +26,7 @@ echo ""
 
 #Format the data of the Big Mac value.
 
-head -n+7 ticker.csv | tail -n+7 | cut -c 23-30 > ticker.price
+head -n+7 ticker.csv | tail -n+7 | cut -c 23-29 > ticker.price
 
 #Create variable for price calculation.
 

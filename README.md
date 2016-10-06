@@ -1,4 +1,6 @@
-#Big Mac Index
+#Bigmac
+
+Big Mac Index :hamburger:
 
 Note: For fun only!
 

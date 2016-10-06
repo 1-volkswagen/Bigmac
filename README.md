@@ -1,5 +1,5 @@
-#Big Mac XVC Calculator.
-------------------------
+#Big Mac Index
+
 Note: For fun only!
 
 This simple script converts your XVC cryptographic capital into the purchasing power equivalant of the USD face value.
